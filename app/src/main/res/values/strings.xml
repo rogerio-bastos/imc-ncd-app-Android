@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">IMCAPP</string>
+    <string-array name="exerciseLevel">
+        <item>Leve</item>
+        <item>Moderada</item>
+        <item>Intensa</item>
+        <item>Não pratico atividade física</item>
+    </string-array>
+</resources>
