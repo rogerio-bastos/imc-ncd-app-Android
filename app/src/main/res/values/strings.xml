@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">IMCAPP</string>
     <string-array name="exerciseLevel">
+        <item>Selecione uma opção</item>
         <item>Leve</item>
         <item>Moderada</item>
         <item>Intensa</item>
