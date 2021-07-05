@@ -25,6 +25,7 @@
             android:layout_height="wrap_content"
             android:layout_marginBottom="32dp"
             android:text="IMC"
+            android:fontFamily="@font/luckiest_guy"
             android:textAppearance="@style/title"
             android:textSize="64sp" />
 
